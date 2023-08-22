@@ -8,6 +8,7 @@ React Native Mobile application able to consult or import image/scan from or int
 4. Patient textual search based on the iCure `PatientByHcPartyNameContainsFuzzyFilter` filter
 5. Patient file exploration. Only Contacts related to Service having (at least) the following
 
+
 ```
 DOCUMENT_SERVICE_TAGS: CodeStub[] = [
 { code: 'document', id: 'CD-ITEM|document|1', type: 'CD-ITEM', version: '1' },
